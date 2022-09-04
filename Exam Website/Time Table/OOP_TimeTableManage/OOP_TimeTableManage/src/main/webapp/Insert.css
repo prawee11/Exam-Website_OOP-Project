@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+body {
+    background-color: linen;
+    font-size: 100%;
+}
+h1{
+	color: maroon;   
+} 
+.list {
+background-color: maroon;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.container {
+  padding: 16px;
+  
+}
+/* Full-width input fields */
+input[type=text], input[type=password] {
+ 
+  width: 50%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
